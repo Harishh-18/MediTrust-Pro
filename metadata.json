@@ -1,0 +1,6 @@
+{
+  "name": "MediTrust Pro Portal",
+  "description": "Next-generation clinical care portal featuring Find Care directory, Health Risk Assessment tool, and Patient Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
